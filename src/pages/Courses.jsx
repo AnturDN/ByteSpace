@@ -52,10 +52,7 @@ const Courses = () => {
                   key={cat}
                   onClick={() => setActiveCategory(cat)}
                   className={`rounded-full px-4 md:px-5 py-2 text-b-xs md:text-b-s font-medium transition-colors cursor-pointer ${
-                    isActive
-                      ? "bg-secondary-400 text-neutral-950"
-                      : "bg-neutral-100 text-neutral-600 hover:bg-neutral-200"
-                  }`}
+                    isActive ? "bg-secondary-400 text-neutral-950" : "bg-neutral-100 text-neutral-600 hover:bg-neutral-200"}`}
                 >
                   {cat}
                 </button>
