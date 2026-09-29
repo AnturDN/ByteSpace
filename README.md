@@ -4,9 +4,8 @@ A modern e-learning platform built with React, Vite, and Tailwind CSS.
 
 ## Live Demo
 
-[ByteSpace Live](https://your-vercel-url.vercel.app)
+[ByteSpace Live](https://bytespace-antur.vercel.app/)
 
-*(URL will be updated after deployment)*
 
 ## Overview
 
