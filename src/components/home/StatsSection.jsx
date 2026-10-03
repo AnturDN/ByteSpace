@@ -25,7 +25,7 @@ const StatsSection = () => {
   "radial-gradient(circle at 0% 0%, rgba(212,251,32,0.35) 0%, transparent 40%), radial-gradient(circle at 100% 100%, rgba(4,69,255,0.18) 0%, transparent 45%)"
         }}
       />
-
+      
       <Container className="relative z-10 py-16 md:py-24">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-16 items-center">
           <motion.div
