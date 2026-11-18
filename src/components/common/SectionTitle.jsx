@@ -1,6 +1,6 @@
 const SectionTitle = ({ eyebrow, title, subtitle, align = "center", className = "" }) => {
   const alignment = align === "center" ? "text-center mx-auto" : "text-left";
-
+  
   return (
     <div className={`max-w-2xl ${alignment} ${className}`}>
       {eyebrow && (
