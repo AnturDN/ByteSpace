@@ -9,7 +9,6 @@ const sizes = {
   md: "px-6 py-3 text-b-m",
   lg: "px-8 py-4 text-b-l",
 };
-
 const Button = ({ variant = "primary", size = "md", className = "", children, ...rest }) => {
   return (
     <button
