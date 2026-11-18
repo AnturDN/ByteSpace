@@ -16,7 +16,6 @@ const AboutTab = () => {
           {para}
         </p>
       ))}
-
       <h3 className="text-h-xs font-heading font-semibold text-neutral-950 mt-8">
         Sneak Peak
       </h3>
